@@ -21,7 +21,7 @@ from telegram.ext import (
 )
 
 
-TOKEN = "TOKENINI_BURAYA_YAPISTIR"
+TOKEN = "8030508061:AAHaguUrXfrhDLbijjtQKDwcmMOGUzvX0gU"
 
 ADMIN_ID = 1138570615
 
