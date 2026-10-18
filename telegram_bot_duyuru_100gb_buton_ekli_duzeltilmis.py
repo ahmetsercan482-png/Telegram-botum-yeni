@@ -21,7 +21,7 @@ from telegram.ext import (
 )
 
 
-TOKEN = "8030508061:AAHaguUrXfrhDLbijjtQKDwcmMOGUzvX0gU"
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
 
 ADMIN_ID = 1138570615
 
